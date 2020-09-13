@@ -1,0 +1,38 @@
+.navbar {
+  background-color: rgb(114, 126, 120);
+  color: white;
+}
+.footer{
+  background-color: #D1C4E9;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+  
+  
+}
+body{
+  background-color: rgb(77, 71, 73);
+  background-image: "../public/assets/images/bg.png";
+  background-position: absolute;
+  background-attachment: fixed;
+ 
+
+}
+.cardtitle{
+margin-top: 80px; 
+}
+.jumbotron{
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #9575CD ;
+  color:floralwhite;
+}
+
+.contact
+{
+  
+  color:floralwhite;
+}

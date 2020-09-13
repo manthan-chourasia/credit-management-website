@@ -1,0 +1,7 @@
+export const ADD_TRANSFER = 'ADD_TRANSFER';
+export const ADD_TRANSFERS = 'ADD_TRANSFERS';
+
+export const TRANSFER_FAILED = 'TRANSFER_FAILED';
+export const DETAIL_LOADING = 'DETAIL_LOADING';
+export const DETAIL_FAILED = 'DETAIL_FAILED ';
+export const ADD_DETAIL = 'DETAIL_FAILED ';
