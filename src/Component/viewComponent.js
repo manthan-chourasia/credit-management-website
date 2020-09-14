@@ -53,10 +53,9 @@ const View =(props) =>{
         return(
             <React.Fragment>
                  <Jumbotron fluid>
-            <h1>Hello, world!</h1>
+            <h1>Credit Management website!</h1>
             <p>
-                 This is a simple hero unit, a simple jumbotron-style component for calling
-                 extra attention to featured content or information.
+                  GraduateRotational InternshipProgram under The sparks foundation
             </p>
             <p>
                 <Button variant="light">Learn more</Button>
