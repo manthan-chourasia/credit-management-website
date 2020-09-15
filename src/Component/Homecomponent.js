@@ -10,10 +10,9 @@ class Homepage extends Component{
         return(
             <React.Fragment>
             <Jumbotron fluid>
-            <h1>Hello, world!</h1>
+            <h1>Graduate Rotational Internship Program</h1>
             <p>
-                 This is a simple hero unit, a simple jumbotron-style component for calling
-                 extra attention to featured content or information.
+                 credit management website project under The sparks foundation.
             </p>
             <p>
                 <Button variant="light">Learn more</Button>
