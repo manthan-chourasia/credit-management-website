@@ -73,12 +73,12 @@ class Contact extends Component {
                 <div className="col-12 col-sm-4 offset-sm-1">
                         <h5>Our Address</h5>
                         <address>
-                        51, Ram apartment <br />
-                        Dwarika sector-12<br />
-                        New Delhi<br />
-                        <i className="fa fa-phone fa-lg"></i>: +91 8969025875<br />
-		                <i className="fa fa-fax fa-lg"></i>: +91 9708887156<br />
-                        <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:rwp9@protonmail.com">
+                        Friends colony <br />
+                        seminary hills-12<br />
+                        Nagpur<br />
+                        <i className="fa fa-phone fa-lg"></i>: +91 89xxxxxxxx<br />
+		                <i className="fa fa-fax fa-lg"></i>: +91xxxxxxxxxx<br />
+                        <i className="fa fa-envelope fa-lg"></i>: <a href="mailto:manthan@pmail.com">
                          rwp9@protonmail.com</a>
                         </address>
                 </div>
