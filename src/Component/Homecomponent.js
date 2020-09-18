@@ -25,7 +25,7 @@ class Homepage extends Component{
                 <Card border="dark" style={{ width: '' }}>
                     <CardHeader> credit management</CardHeader>
                     <CardBody>
-                        <CardImg variant="top" width="80%" height=" 80%" src='assets/images/credit.jpg' alt="credit" />
+                        <CardImg variant="top" width="80%" height=" 80%" src='assets/images/download.jpg' alt="credit" />
                     </CardBody>
                     <CardBody>
                         <CardTitle>Manage your credit Here</CardTitle>
@@ -41,7 +41,7 @@ class Homepage extends Component{
                 <Card border="primary" bg='success' style={{ width: ''}}>
                     <CardHeader> credit management</CardHeader>
                     <CardBody>
-                        <CardImg variant="top" width="80%" height=" 80%" src='assets/images/credit3.jpg' alt="credit" />
+                        <CardImg variant="top" width="80%" height=" 80%" src='assets/images/14274.jpg' alt="credit" />
                     </CardBody>
                     <CardBody> 
                         <CardTitle>Manage your credit Here</CardTitle>
